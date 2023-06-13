@@ -1,0 +1,15 @@
+{
+  "name": "war-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WAR.js",
+  "scripts": {
+    "test": "^run"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
